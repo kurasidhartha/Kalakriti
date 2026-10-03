@@ -1,0 +1,580 @@
+dea:
+
+«One system to understand, organize, operate and evolve everything you do.»
+
+Most software separates life and work into dozens of disconnected products — calendars for time, task managers for work, note apps for information, journals for reflection, project-management platforms for teams, learning platforms for knowledge, communication tools for collaboration, and AI assistants that often have little real context about any of them.
+
+Prism approaches this differently.
+
+Prism is intended to become a unified operating layer across personal life, creative work, projects, teams and organizations.
+
+It begins as a Personal Operating System, but its architecture is designed to grow into an ecosystem of connected software experiences.
+
+---
+
+1. THE PRISM CONCEPT
+
+Prism represents the idea that a person's activities are not isolated.
+
+A goal creates projects.
+
+Projects create tasks.
+
+Tasks consume time.
+
+Time is scheduled.
+
+Focused work produces output.
+
+Output creates progress.
+
+Progress generates data.
+
+Data creates insight.
+
+Insight changes decisions.
+
+Learning improves execution.
+
+Reflection changes future goals.
+
+Prism brings these relationships into one environment.
+
+Instead of simply storing information, Prism aims to understand the relationships between the things a person does.
+
+The result is a system that can move from:
+
+Capture → Organize → Plan → Execute → Learn → Measure → Reflect → Adapt → Transform.
+
+---
+
+2. PRISM AS AN ECOSYSTEM
+
+Prism should not be thought of as one application.
+
+It is a software ecosystem with multiple products and experiences operating on a common Prism foundation.
+
+The ecosystem can eventually serve different scales of use:
+
+Prism Personal
+
+For an individual managing their life, goals, learning, projects, routines and personal development.
+
+Prism Creator
+
+For creators, independent builders, researchers, entrepreneurs and people running multiple creative projects.
+
+Prism Shared
+
+For groups of people working together around common goals, projects or activities.
+
+Prism Workspace
+
+For structured collaborative environments where teams manage projects, information, workflows and operations.
+
+Prism Management
+
+For organizations that need higher-level planning, coordination, analytics, resource management and operational visibility.
+
+Prism Enterprise
+
+A future organizational layer capable of supporting larger organizations, departments, permissions, governance, security and complex workflows.
+
+These are not necessarily separate disconnected products.
+
+They are different expressions of the same Prism ecosystem.
+
+---
+
+3. THE PRISM FOUNDATION
+
+At the center of the ecosystem is Prism Core.
+
+Prism Core represents the common foundation shared by the ecosystem.
+
+It can eventually contain the underlying concepts of:
+
+- Identity
+- Profiles
+- Goals
+- Domains
+- Projects
+- Tasks
+- Events
+- Records
+- Knowledge
+- Activities
+- Progress
+- Relationships
+- Permissions
+- Workspaces
+- AI context
+- Automations
+- Integrations
+- Synchronization
+
+This allows Prism products to communicate naturally.
+
+A person does not become a completely different entity when moving from their personal environment into a workspace.
+
+The same underlying identity can participate in different contexts.
+
+For example:
+
+Vish → Personal Prism → Creator Prism → Project Prism Workspace → Team Workspace
+
+while maintaining appropriate boundaries between each environment.
+
+---
+
+4. PRISM PERSONAL — THE BEGINNING
+
+The first major expression of Prism is the Personal Operating System.
+
+This is where the current Prism application begins.
+
+The initial system combines:
+
+Calendar
+
+Time, events and scheduling.
+
+To-Do
+
+Actions and immediate execution.
+
+Kanban
+
+Projects, workflows and visual execution.
+
+Pomodoro
+
+Focused work sessions.
+
+Journal
+
+Reflection, thoughts and personal records.
+
+Tracker
+
+Habits, metrics and recurring measurements.
+
+Feynman
+
+Learning through explanation, understanding and retrieval.
+
+Drop-Dump
+
+A frictionless capture layer for thoughts, tasks, ideas, links and anything that needs to be processed later.
+
+Transformation
+
+Long-term objectives and measurable personal change.
+
+Domains
+
+The areas through which a person structures their life.
+
+Prism AI
+
+An intelligent interface capable of eventually understanding the user's Prism context and interacting across the ecosystem.
+
+These aren't meant to remain isolated tools.
+
+Their value comes from being connected.
+
+---
+
+5. THE PRISM GRAPH
+
+One of the deeper ideas behind Prism is that the ecosystem can eventually become a relationship graph of a person's work and activity.
+
+For example:
+
+A transformation target can contain a goal.
+
+The goal can contain projects.
+
+Projects contain tasks.
+
+Tasks are scheduled into calendar events.
+
+Events produce activity.
+
+Activity contributes to trackers.
+
+The user can journal about the experience.
+
+Learning resources can be attached to the goal.
+
+The Feynman system can test understanding.
+
+The AI can see these relationships and provide context.
+
+Therefore Prism gradually develops something much more useful than a collection of databases.
+
+It develops a living model of the user's activities.
+
+---
+
+6. PRISM AI
+
+AI should not merely be a chatbot sitting inside the application.
+
+The long-term concept is for Prism AI to become the intelligence layer of Prism.
+
+Instead of asking:
+
+«"What can you tell me?"»
+
+the user could eventually ask:
+
+«"What should I focus on today?"»
+
+«"What projects are falling behind?"»
+
+«"Turn this dump into an actionable plan."»
+
+«"Schedule these tasks around my existing commitments."»
+
+«"What caused my progress to drop this month?"»
+
+«"Teach me this using the Feynman method."»
+
+«"Review my goals and tell me what is conflicting."»
+
+«"Prepare my workspace for tomorrow."»
+
+The AI can operate using the context already present inside Prism, subject to the user's permissions and controls.
+
+The long-term ambition is therefore not AI + productivity app.
+
+It is:
+
+«AI operating on a unified personal and collaborative context layer.»
+
+---
+
+7. PRISM CREATOR
+
+The creator layer expands Prism beyond personal productivity.
+
+Creators often operate as miniature organizations.
+
+They have:
+
+- Ideas
+- Content
+- Research
+- Projects
+- Production pipelines
+- Deadlines
+- Collaborators
+- Assets
+- Clients
+- Audiences
+- Revenue activities
+- Long-term projects
+
+Prism Creator could provide a unified environment for managing this entire creative operation.
+
+A creator could move from:
+
+Idea → Research → Production → Review → Publishing → Analytics → Iteration
+
+without leaving the Prism ecosystem.
+
+This can also extend naturally to founders, independent researchers, student builders, freelancers and small teams.
+
+---
+
+8. PRISM SHARED
+
+Prism eventually moves from one person to multiple people.
+
+Shared spaces allow people to collaborate around a common objective.
+
+A shared Prism environment could contain:
+
+- Shared projects
+- Shared tasks
+- Shared Kanban boards
+- Shared calendars
+- Shared knowledge
+- Shared goals
+- Discussions
+- Assignments
+- Progress
+- Files
+- AI assistance
+
+The critical distinction is that Prism does not have to create a completely separate collaboration system.
+
+The same objects that exist in Personal Prism can participate in Shared Prism when the user gives them access.
+
+---
+
+9. PRISM WORKSPACE
+
+Workspace becomes the environment for structured teams.
+
+A workspace could represent:
+
+- A startup
+- College project
+- Research laboratory
+- Creator team
+- Engineering team
+- Agency
+- Community
+- Department
+- Organization
+
+Each workspace can have its own:
+
+People + Projects + Knowledge + Tasks + Goals + Workflows + Permissions + AI context.
+
+This creates a progression:
+
+Personal → Shared → Workspace → Organization
+
+rather than forcing users into completely different products.
+
+---
+
+10. PRISM MANAGEMENT
+
+At organizational scale, Prism can become an operational management system.
+
+Management could eventually provide:
+
+- Organizational goals
+- Department objectives
+- Project portfolios
+- Resource planning
+- Workload visibility
+- Progress analytics
+- Performance indicators
+- Dependencies
+- Approvals
+- Workflow automation
+- Strategic planning
+- Operational dashboards
+
+The important concept is that management data should emerge from actual activity rather than requiring people to constantly create separate reports.
+
+If a project is already being executed inside Prism, management should eventually be able to understand its state from the underlying system.
+
+---
+
+11. PRISM INTEGRATIONS
+
+Prism should not attempt to replace every piece of software.
+
+It should eventually become a coordination layer capable of connecting to external ecosystems.
+
+Potential integrations can include:
+
+- Email
+- Cloud storage
+- Communication platforms
+- Calendars
+- Documents
+- Git repositories
+- Development tools
+- Design tools
+- Learning platforms
+- Finance systems
+- Health/fitness platforms
+- Automation platforms
+- External AI models
+- Other productivity systems
+
+The principle is:
+
+«Prism does not need to own everything. It needs to connect everything intelligently.»
+
+This makes integrations an extension of Prism rather than a limitation of the core product.
+
+---
+
+12. PRISM AUTOMATION
+
+A future Prism ecosystem can introduce automation across the entire system.
+
+For example:
+
+When a project enters production → create its execution tasks.
+
+When a deadline approaches → evaluate remaining workload.
+
+When a task is repeatedly postponed → flag it for review.
+
+When a learning goal is created → generate a Feynman learning pathway.
+
+When a creator publishes content → record the activity and trigger the appropriate workflow.
+
+When a team project becomes blocked → identify the dependency and notify the relevant people.
+
+Eventually, users could describe desired workflows in natural language and Prism could construct them.
+
+---
+
+13. PRISM'S MULTI-SCALE MODEL
+
+The ecosystem can therefore be understood as multiple layers:
+
+LEVEL 1 — SELF
+
+Prism Personal
+
+Manage yourself.
+
+LEVEL 2 — CREATOR
+
+Prism Creator
+
+Manage your creative operation.
+
+LEVEL 3 — SHARED
+
+Prism Shared
+
+Work with other people.
+
+LEVEL 4 — WORKSPACE
+
+Prism Workspace
+
+Operate structured teams and projects.
+
+LEVEL 5 — MANAGEMENT
+
+Prism Management
+
+Coordinate organizations and operations.
+
+LEVEL 6 — ECOSYSTEM
+
+Prism Platform
+
+Connect people, workspaces, services, AI and external systems.
+
+The same ecosystem can therefore scale from:
+
+one person → a small team → a startup → a department → an organization.
+
+---
+
+14. PRISM APPLICATION FAMILY
+
+Over time, Prism does not have to remain one giant application.
+
+The ecosystem can develop multiple official interfaces.
+
+For example:
+
+Prism Mobile
+Personal/mobile-first experience.
+
+Prism Web
+Full productivity and workspace environment.
+
+Prism Desktop
+Deep work and professional workflows.
+
+Prism Creator
+Creator-focused environment.
+
+Prism Workspace
+Team and collaborative environment.
+
+Prism Management
+Management and organizational interface.
+
+Prism AI
+AI-first interface and agentic interaction layer.
+
+These applications can share Prism Core rather than becoming independent products.
+
+---
+
+15. VERSION EVOLUTION
+
+Prism's versions represent the evolution of the ecosystem rather than simply adding random features.
+
+Prism 1
+
+Personal OS
+
+The foundation.
+
+Calendar, tasks, Kanban, Pomodoro, journal, tracking, Feynman, Drop-Dump, domains, transformation and initial AI.
+
+Prism 2
+
+Connected Personal OS
+
+Deeper relationships between modules, synchronization, richer AI, integrations, automation and broader device support.
+
+Prism 3
+
+Creator & Shared Ecosystem
+
+Creator workflows, shared environments, collaboration and richer project ecosystems.
+
+Prism 4
+
+Workspace OS
+
+Teams, structured workspaces, permissions, collaborative knowledge, operational workflows and advanced automation.
+
+Prism 5+
+
+Prism Platform
+
+Management, organizations, enterprise capabilities, ecosystem integrations, advanced AI agents and potentially third-party Prism applications/services.
+
+The exact version numbers are not fixed. The principle is that Prism grows from individual operating system → collaborative operating system → organizational operating system → ecosystem platform.
+
+---
+
+16. THE LONG-TERM VISION
+
+The ultimate vision of Prism is not to create another productivity application.
+
+It is to create a unified operating environment for human activity.
+
+Today, software is fragmented.
+
+People jump between:
+
+Calendar → Tasks → Notes → Chat → Documents → Project management → Learning → AI → Analytics → Storage.
+
+Prism's long-term objective is to make those boundaries less important.
+
+A person should be able to think about what they want to accomplish rather than which application they need to open.
+
+The system should understand the context.
+
+The user remains in control.
+
+The software handles the coordination.
+
+---
+
+17. THE PRISM ECOSYSTEM IN ONE LINE
+
+«Prism is a modular operating system for organizing, executing and evolving human work — from the individual to the creator, team, workspace and organization.»
+
+And the fundamental progression is:
+
+Personal OS → Creator OS → Shared OS → Workspace OS → Management OS → Ecosystem Platform
+
+The first APK is therefore not the final product.
+
+It is Prism's first window into the ecosystem.
+
+Everything begins with a single person organizing their own world.
+
+From there, Prism can progressively connect people, projects, knowledge, workflows, teams, organizations, AI and external services into one coherent software ecosystem.
